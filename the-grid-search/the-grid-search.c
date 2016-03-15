@@ -54,7 +54,8 @@ int main(){
                     found = 1;
                     break;
                 }
-                subStr += strlen(subStr);
+                //subStr += strlen(subStr);
+                subStr += 1;
             }
             if (found) break;
         }
