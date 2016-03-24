@@ -1,0 +1,5 @@
+input
+bdabaceadaedaaaeaecdeadababdbeaeeacacaba
+
+output
+aaaaaabaaceededecbdb
